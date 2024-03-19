@@ -39,3 +39,9 @@ This is a secure storage system implemented in Python, providing password-based 
     ```
     
 5. Follow the on-screen menu to register, log in, encrypt, and decrypt files.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/AhsanA3/file-encryption-python/blob/main/LICENSE) file for details.
+
+## Contributors
+- [Ahsan Akoshile](https://github.com/AhsanA3)
